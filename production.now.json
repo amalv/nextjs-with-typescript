@@ -1,5 +1,5 @@
 {
-  "alias": "production-test.now.sh",
+  "alias": "production-test.amalv.now.sh",
   "env": {
     "database": "@production-secret"
   }
