@@ -1,5 +1,5 @@
 {
-  "alias": "production.nextjs-typescript.com",
+  "alias": "production-test.now.sh",
   "env": {
     "database": "@production-secret"
   }
