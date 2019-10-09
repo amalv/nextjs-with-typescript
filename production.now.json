@@ -1,0 +1,6 @@
+{
+  "alias": "production.nextjs-typescript.com",
+  "env": {
+    "database": "@production-secret"
+  }
+}

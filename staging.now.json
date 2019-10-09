@@ -1,0 +1,6 @@
+{
+  "alias": "staging-test.now.sh",
+  "env": {
+    "database": "@staging-secret"
+  }
+}
